@@ -11,7 +11,7 @@ Reproduction &amp; extension of NSF (CVPR 2025) — a bias debiasing framework t
 [![Paper](https://img.shields.io/badge/Paper-CVPR%202025-blue)](https://cvpr.thecvf.com/virtual/2025/poster/34895)
 [![Original Repo](https://img.shields.io/badge/Original-GitHub-black)](https://github.com/davelee-uestc/nsf_debiasing)
 [![YouTube](https://img.shields.io/badge/Demo-YouTube-red)](https://youtu.be/hYH4vwrVTmI)
-[![Colab](https://img.shields.io/badge/Run%20on-Google%20Colab-orange)](https://colab.research.google.com)
+
 
 ---
 
